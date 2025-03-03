@@ -1,5 +1,5 @@
 ## **Pandas projects:**
-This repository shows my pandas projects that I've been doing during the "Pandas Data Science with Pandas" course.
+This repository shows my `Pandas` projects that I've been doing during the **"Pandas Data Science with Pandas"** course.
 
 Here I implemented:
 * Data Analysis
