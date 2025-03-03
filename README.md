@@ -8,6 +8,10 @@ Here I implemented:
 * Data Visualization
 * Explanatory Analysis
 
+I also covered ML-related techniques, such as:
+* Data Preprocessing
+* Feature Engineering
+
 Alongside with that, I used additonal techniques, such as:
 * Web Scraping
 * Working with Web APIs and JSON
